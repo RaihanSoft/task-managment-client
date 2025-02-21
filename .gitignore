@@ -23,9 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-AuthProvider
 
-layouts
 pages
 routes
 .gitignore
