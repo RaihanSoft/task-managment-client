@@ -6,7 +6,7 @@ Task Manager is a **responsive** and **intuitive** task management application d
 
 ## **Live Demo**
 
-- [Live Version 1](https://task-management-app-fcaff.web.app/)
+- [Live Version 1](https://task-managment-2ce16.web.app/)
 
 ## **Key Features**
 
