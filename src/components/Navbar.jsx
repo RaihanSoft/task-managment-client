@@ -63,7 +63,7 @@ export default function Navbar() {
               </button>
             </div>
           ) : (
-            <Link to="/login" className="bg-gradient-to-r from-primary to-secondary text-white px-6 py-2 rounded-lg hover:opacity-80 transition-all">Login</Link>
+            <Link to="/login" className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:opacity-80 transition-all">Login</Link>
           )}
           
           {/* Mobile Menu Toggle */}

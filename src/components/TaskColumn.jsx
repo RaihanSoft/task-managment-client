@@ -8,7 +8,7 @@ export default function TaskColumn({ category, tasks, setTasks }) {
   return (
     <div
       ref={setNodeRef}
-      className="bg-gradient-to-tr from-primary to-secondary text-white p-4 rounded-lg shadow-md min-h-[200px]"
+      className=" bg-blue-50  p-4 rounded-lg shadow-md  min-h-[300px]"
     >
       <h3 className="text-2xl font-semibold mb-4">{category}</h3>
       {tasks.map((task) => (

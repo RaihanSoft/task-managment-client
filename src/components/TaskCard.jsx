@@ -114,13 +114,13 @@ export default function TaskCard({ task, setTasks }) {
         <div className="flex flex-col gap-2">
           <button
             onClick={openModal}
-            className="btn bg-gradient-to-r from-primary to-secondary text-white"
+            className="btn bg-blue-600 text-white"
           >
             <FaPen />
           </button>
           <button
             onClick={() => handleDelete(task?._id)}
-            className="btn bg-gradient-to-r from-primary to-secondary text-white"
+            className="btn bg-blue-600 text-white"
           >
             <FaTrashAlt />
           </button>

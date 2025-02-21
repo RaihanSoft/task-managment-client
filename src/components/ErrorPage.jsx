@@ -10,7 +10,7 @@ export default function ErrorPage() {
         {/* Uncomment the image when available */}
         {/* <img src={errorImg} alt="Page Not Found" className="w-full mb-6" /> */}
       </div>
-      <h2 className="text-4xl font-bold bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text mb-4">
+      <h2 className="text-4xl font-bold bg-blue-600 text-transparent bg-clip-text mb-4">
         Page Not Found
       </h2>
       <p className="text-lg text-gray-600 mb-6">
