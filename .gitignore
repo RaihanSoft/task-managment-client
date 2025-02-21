@@ -23,9 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-assets
 AuthProvider
-components
 
 hooks
 layouts
